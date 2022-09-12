@@ -1,3 +1,10 @@
+# This fork is [for Roc's Wasm testing](https://github.com/roc-lang/roc/blob/main/crates/compiler/test_gen/src/helpers/wasm.rs#L12)
+
+We want an [increased max function stack height](https://github.com/wasm3/wasm3-rs/commit/b438c1c4d53d39a6cad46fe2dffeb94ddd4679c1)
+for Roc, so we use & maintain this fork.
+
+---
+
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 # wasm3-rs
