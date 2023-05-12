@@ -21,7 +21,7 @@
 # endif
 
 # ifndef d_m3MaxFunctionStackHeight
-#   define d_m3MaxFunctionStackHeight           16384    // TODO: comment on upper limit
+#   define d_m3MaxFunctionStackHeight           32768    // TODO: comment on upper limit
 # endif
 
 # ifndef d_m3MaxLinearMemoryPages
